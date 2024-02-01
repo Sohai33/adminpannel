@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41150382944",
+    "firebase_url": "https://adminpanel-9aa72-default-rtdb.firebaseio.com",
+    "project_id": "adminpanel-9aa72",
+    "storage_bucket": "adminpanel-9aa72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41150382944:android:6d5b1170dce33d0f325405",
+        "android_client_info": {
+          "package_name": "com.adminpanel.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41150382944-u12dub1apool7n54u5h2rdb27n76pq67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbG3lyzIGAD1H02Kma1PUeVf_d-LO7guI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41150382944-u12dub1apool7n54u5h2rdb27n76pq67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41150382944-o5u2qjclshb7r0mee1q46gkmpv882gck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adminpanel.adminpanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
